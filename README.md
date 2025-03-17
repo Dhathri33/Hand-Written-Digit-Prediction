@@ -37,9 +37,3 @@ This project focuses on building an **image classification model** to recognize 
 ✅ **Data Processing**: NumPy, Pandas, OpenCV  
 ✅ **Frontend Deployment**: HTML, CSS, JavaScript, TensorFlow.js  
 ✅ **Model Evaluation Metrics**: Accuracy, Loss, Precision, Recall  
-
-## **How to Run the Project**  
-1️⃣ Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/handwritten-digit-recognition.git
-   cd handwritten-digit-recognition
